@@ -16,6 +16,6 @@ Proyek ini mengklasifikasikan tingkat panggang biji kopi menggunakan metode Conv
 
 # Data
 Dataset : https://www.kaggle.com/datasets/gpiosenka/coffee-bean-dataset-resized-224-x-224/data
-Google Colab :pencit-uas-klasifikasi-biji-kopi-119.ipynb
-Panduan : 
+Google Colab : pencit-uas-klasifikasi-biji-kopi-119.ipynb
+Panduan : README.md
 
